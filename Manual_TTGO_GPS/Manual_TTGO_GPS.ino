@@ -114,7 +114,7 @@ void loop(){
         }
     }
     else {
-      Serial.println("WiFi Disconectado");
+      Serial.println("WiFi Desconectado");
     }
     lastTime = millis();
     }
